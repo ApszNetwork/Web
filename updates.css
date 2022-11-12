@@ -1,0 +1,307 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 584px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 1070px;
+  height: 458px;
+  margin: -13px auto 0;
+}
+
+.u-section-1 .u-image-2 {
+  width: 196px;
+  height: 98px;
+  transition-duration: 0.5s;
+  transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
+  margin: -262px auto 60px 227px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 528px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 940px;
+    height: 402px;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-top: -206px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 434px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 720px;
+    height: 308px;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-top: -112px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 357px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 540px;
+    height: 231px;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-top: -35px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 271px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 145px;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-top: 51px;
+    margin-left: 144px;
+  }
+}
+
+.u-section-1 .u-image-2,
+.u-section-1 .u-image-2:before,
+.u-section-1 .u-image-2 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
+}
+
+.u-section-1 .u-image-2.u-image-2.u-image-2:hover {
+  transform: scale(1.1) !important;
+}
+
+.u-section-1 .u-image-2.u-image-2.u-image-2.hover {
+  transform: scale(1.1) !important;
+}
+
+.u-section-1 .u-container-layout:hover .u-image-2 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}
+
+.u-container-layout.hover .u-section-1 .u-image-2 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}.u-section-2 .u-sheet-1 {
+  min-height: 102px;
+}
+
+.u-section-2 .u-text-1 {
+  margin: 12px auto 12px 71px;
+} .u-section-3 {
+  background-image: none;
+}
+
+.u-section-3 .u-sheet-1 {
+  min-height: 612px;
+}
+
+.u-section-3 .u-text-1 {
+  font-weight: 600;
+  margin: 20px 2916px 0 0;
+}
+
+.u-section-3 .u-text-2 {
+  font-weight: 400;
+  margin: -52px auto 0 538px;
+}
+
+.u-section-3 .u-image-1 {
+  width: 500px;
+  height: 250px;
+  transition-duration: 1s;
+  transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
+  box-shadow: 0px 0px 32px 0px rgba(128,128,128,1);
+  margin: 61px auto 0 46px;
+}
+
+.u-section-3 .u-image-2 {
+  width: 500px;
+  height: 250px;
+  box-shadow: 0px 2px 29px 10px rgba(0,0,0,0.65);
+  margin: -241px auto 0 594px;
+}
+
+.u-section-3 .u-image-3 {
+  width: 500px;
+  height: 250px;
+  box-shadow: 5px 5px 29px 10px rgba(0,0,0,0.7);
+  margin: -250px auto 0 1140px;
+}
+
+.u-section-3 .u-text-3 {
+  font-weight: 400;
+  margin: 4px auto 60px 60px;
+}
+
+@media (max-width: 1399px) {
+  .u-section-3 .u-text-1 {
+    margin-right: 616px;
+  }
+
+  .u-section-3 .u-text-2 {
+    margin-left: 178px;
+  }
+
+  .u-section-3 .u-image-3 {
+    margin-left: 640px;
+  }
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-text-1 {
+    margin-right: 416px;
+  }
+
+  .u-section-3 .u-image-2 {
+    margin-left: 440px;
+  }
+
+  .u-section-3 .u-image-3 {
+    margin-left: 440px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-text-1 {
+    margin-right: 196px;
+  }
+
+  .u-section-3 .u-image-2 {
+    margin-left: 220px;
+  }
+
+  .u-section-3 .u-image-3 {
+    margin-left: 220px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-text-1 {
+    margin-right: 16px;
+  }
+
+  .u-section-3 .u-image-1 {
+    margin-left: 40px;
+  }
+
+  .u-section-3 .u-image-2 {
+    margin-left: 40px;
+  }
+
+  .u-section-3 .u-image-3 {
+    margin-left: 40px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 372px;
+  }
+
+  .u-section-3 .u-text-1 {
+    margin-right: 0;
+  }
+
+  .u-section-3 .u-text-2 {
+    margin-left: 112px;
+  }
+
+  .u-section-3 .u-image-1 {
+    width: 340px;
+    height: 170px;
+    margin-left: 0;
+  }
+
+  .u-section-3 .u-image-2 {
+    width: 340px;
+    height: 170px;
+    margin-top: -161px;
+    margin-left: 0;
+  }
+
+  .u-section-3 .u-image-3 {
+    width: 340px;
+    height: 170px;
+    margin-top: -170px;
+    margin-left: 0;
+  }
+}
+
+.u-section-3 .u-image-1,
+.u-section-3 .u-image-1:before,
+.u-section-3 .u-image-1 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
+}
+
+.u-section-3 .u-image-1.u-image-1.u-image-1:hover {
+  transform: scale(1.09) !important;
+}
+
+.u-section-3 .u-image-1.u-image-1.u-image-1.hover {
+  transform: scale(1.09) !important;
+}
+
+.u-section-3 .u-container-layout:hover .u-image-1 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}
+
+.u-container-layout.hover .u-section-3 .u-image-1 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}.u-section-4 .u-sheet-1 {
+  min-height: 13px;
+}.block {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: 300% 300%;
+  background-image: linear-gradient(-45deg, #ff4747 0%, #ff6647 25%, 
+#e37f32 51%, #f5b840 100%);
+  -webkit-animation: AnimateBLOCK 5s ease infinite;
+          animation: AnimateBLOCK 5s ease infinite;
+}
+@-webkit-keyframes AnimateBLOCK {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+@keyframes AnimateBLOCK {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+.msc {
+}
+}
+}
+.tb {
+}
